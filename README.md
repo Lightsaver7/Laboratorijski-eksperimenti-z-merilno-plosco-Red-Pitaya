@@ -3,7 +3,7 @@ Pripadajoče FPGA vezje in komponente za magistrsko nalogo "Eksperimenti z meril
 
 Koda v repozitoriju je razdeljena v naslednje datoteke:
 
-- **Digital_communication_FPGA** – vsebuje dodatne in spremenjene FPGA komponente, ki nadgradijo projekt "logic" z generatorjema za UART in SPI na digitalnih pinih DIO0_N – DIO5_N.
+- **Digital_communication_FPGA** – vsebuje dodatne in spremenjene FPGA komponente, ki nadgradijo projekt "logic" z generatorjema za UART in SPI na digitalnih priključkih DIO0_N – DIO5_N.
 - **Modulation_division_FPGA** – vsebuje dodatne in spremenjene FPGA komponente, ki nadgradijo projekt "v0.94" z dodatkom modulacije izhodnih signalov na izhod modula "ASG" ter splošnega FIR filtra s pripadajočim vezjem za decimacijo frekvence in vhodnega signala (2^n) na vhod modula "scope".
 - **General_project** – vsebuje FPGA komponente za dodatek splošne komponente v projekt "v0.94" ter pripadajoče datoteke za avtomatsko menjavo FPGA vezja.
 
